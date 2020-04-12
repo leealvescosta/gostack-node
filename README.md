@@ -3,10 +3,11 @@
 <h3 align="center">
   Conceitos do Node.js
 </h3>
+<blockquote><p align="center">“Nessa vida binária, você é <strong>0</strong> ou <strong>1</strong> ?”</blockquote>
 
 <p align="center">
     <img alt="Made by LeandroCosta" src="https://img.shields.io/badge/Made%20by-Leandro%20Costa-brightgreen">
-    <img alt="Used languages" src="https://img.shields.io/github/languages/count/leealvescosta/gostack">
+    <img alt="Used languages" src="https://img.shields.io/github/languages/count/leealvescosta/gostack-node">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
 
